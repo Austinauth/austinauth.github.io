@@ -1,0 +1,14 @@
+# Site settings
+title: Austin Auth | Design + Front-End
+email: austin@austin-auth.com
+description: "Portfolio and Blog of IBM Designer Austin Auth"
+baseurl: ""
+url: "http://yourdomain.com"
+twitter_username: austinauth
+github_username:  austinauth
+
+# Build settings
+markdown: kramdown
+permalink: /:title.html
+
+

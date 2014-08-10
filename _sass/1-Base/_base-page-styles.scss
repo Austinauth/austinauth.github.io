@@ -1,0 +1,39 @@
+/**--- Base Page Styles ---**/
+
+body{
+	color: #3a3a3a;
+	font-family: "chaparral-pro", serif;
+	background-image: url('../../img/bg-texture.png');
+	background-repeat: repeat;
+}
+
+h1{
+	font-size: 62px;
+	font-style: normal;
+	font-weight: 700;
+}
+
+h2{
+	font-size: 32px;
+	line-height: 42px;
+	font-style: normal;
+	font-weight: 700;
+}
+
+p{
+	font-size: 24px;
+	line-height: 32px;
+}
+
+a{
+	color: #3a3a3a; 
+	text-decoration: none;
+	&:hover{
+		color: #53B5D5;
+	}
+}
+
+time{
+	color: #A2A2A2;
+}
+

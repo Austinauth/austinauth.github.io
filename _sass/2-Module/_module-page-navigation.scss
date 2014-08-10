@@ -1,0 +1,35 @@
+/*Page Navigation*/
+.nav-logo{
+	height: 120px;
+	width: 118px;
+	position: absolute;
+	left: 0;
+	right: 0;
+	margin: 0 auto;
+	top: 25px;
+}
+
+.site-navigation ul{
+	list-style: none;
+	text-align: center;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 700;
+	padding: 70px 0;
+		li{
+			display: inline-block;
+			a{
+				text-decoration: none;
+				padding: 35px;
+			}
+			&.nav-link-left{
+				padding-right: 70px;
+			}
+			&.nav-link-right{
+				padding-left: 70px;
+			}
+		}
+}
+		
+
+

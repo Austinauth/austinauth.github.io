@@ -1,0 +1,13 @@
+---
+layout: default
+title:  "Archive"
+---
+
+<ul class="post-archive">
+   {% for post in site.posts %}
+   	<li class="post-archive-unit">
+   		<a class="post-archive-link" href="{{ post.url }}">{{ post.title }}</a>
+   		<time class="post-archive-date">{{ post.date | date_to_string }}</time>
+   	</li>
+   {% endfor %}
+</ul>

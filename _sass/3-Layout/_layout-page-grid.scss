@@ -1,0 +1,19 @@
+/*Page Layout*/
+
+.page-wrapper, .footer-wrapper{
+	width: 90%;
+	max-width: 770px;
+	margin: 0 auto;
+}
+
+.two-col{
+	width: 45%;
+	float: left;
+	&:nth-child(2){
+		float: right;
+		text-align: right;
+	}
+}
+
+
+
