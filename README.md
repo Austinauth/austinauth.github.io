@@ -1,4 +1,4 @@
-austinauth.github.io
+Austin Auth Personal Blog + Portfolio Site
 ====================
 
-My Blog + Portfolio
+This site is currently a work-in-progress and not final state.
