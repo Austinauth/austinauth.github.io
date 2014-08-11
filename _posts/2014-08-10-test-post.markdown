@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Test Post"
+title:  "Under Construction"
 date:   2014-08-10 21:56:29
 categories: jekyll update
 ---
 
 <div class="article-img"><img class="img-responsive" src="img/haunted-mask.jpg"></div>
 
-## This is a test post. Testing Github pages.
+## My site is currently under construction. Please excuse the mess for now. 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean suscipit lorem ac pharetra elementum. Phasellus quam felis, placerat quis leo non, cursus gravida diam. Sed dignissim, mauris nec porta ornare, mauris magna cursus velit, vel aliquam est augue ac odio. Integer commodo, diam tempor porttitor aliquet, lectus tellus auctor neque, eget aliquam magna leo nec nisi. Donec lacinia et sem in commodo.
 

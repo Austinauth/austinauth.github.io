@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Finding Nemo"
+title:  "Test Post"
 date:   2014-07-25 21:56:29
 categories: jekyll update
 ---
