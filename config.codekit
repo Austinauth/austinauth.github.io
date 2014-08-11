@@ -1845,7 +1845,7 @@
 		},
 	"\/css\/master.css": {
 		"fileType": 16,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/css\/master.css",
 		"outputAbbreviatedPath": "No Output Path",
@@ -1894,6 +1894,18 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/README.md": {
+		"enableFootnoteSupport": 0,
+		"enableSmartyPants": 1,
+		"expandTabs": 1,
+		"fileType": 4096,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/README.md",
+		"outputAbbreviatedPath": "\/README.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/work.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -1911,9 +1923,9 @@
 	},
 "projectAttributes": {
 	"bowerAbbreviatedPath": "",
-	"displayValue": "blog-test",
-	"displayValueWasSetByUser": 0,
-	"iconImageName": "brackets_brown"
+	"displayValue": "Personal Blog",
+	"displayValueWasSetByUser": 1,
+	"iconImageName": "brackets_blue"
 	},
 "projectSettings": {
 	"alwaysUseExternalServer": 0,

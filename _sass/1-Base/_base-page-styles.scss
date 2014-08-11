@@ -1,10 +1,15 @@
 /**--- Base Page Styles ---**/
 
+html{
+	height:100%;
+}
+
 body{
 	color: #3a3a3a;
 	font-family: "chaparral-pro", serif;
 	background-image: url('../../img/bg-texture.png');
 	background-repeat: repeat;
+	height: 100%;
 }
 
 h1{
