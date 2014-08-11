@@ -2,12 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Austin Auth | Design + Front-End</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
+    <description>Portfolio and Blog of IBM Designer Austin Auth</description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 10 Aug 2014 16:49:58 -0500</pubDate>
-    <lastBuildDate>Sun, 10 Aug 2014 16:49:58 -0500</lastBuildDate>
+    <pubDate>Sun, 10 Aug 2014 22:48:13 -0500</pubDate>
+    <lastBuildDate>Sun, 10 Aug 2014 22:48:13 -0500</lastBuildDate>
     <generator>Jekyll v2.1.1</generator>
+    
+      <item>
+        <title>Test Post</title>
+        <description>&lt;div class=&quot;article-img&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;img/haunted-mask.jpg&quot; /&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;this-is-a-test-post-testing-github-pages&quot;&gt;This is a test post. Testing Github pages.&lt;/h2&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean suscipit lorem ac pharetra elementum. Phasellus quam felis, placerat quis leo non, cursus gravida diam. Sed dignissim, mauris nec porta ornare, mauris magna cursus velit, vel aliquam est augue ac odio. Integer commodo, diam tempor porttitor aliquet, lectus tellus auctor neque, eget aliquam magna leo nec nisi. Donec lacinia et sem in commodo.&lt;/p&gt;
+
+&lt;p&gt;Aliquam blandit lacus a dolor ultrices faucibus. Praesent venenatis, lectus in tincidunt lobortis, purus justo ornare ipsum, nec fringilla enim risus non nunc. Nunc porttitor, ante non dignissim malesuada, est velit interdum est, vel sagittis dui quam in risus.&lt;/p&gt;
+
+&lt;p&gt;Proin suscipit vehicula dolor, et facilisis quam euismod ac. Fusce condimentum lectus sit amet lectus sodales faucibus. Phasellus et commodo diam. Vivamus id tincidunt lectus. Aenean id dapibus ligula, id dapibus neque. Curabitur ullamcorper dolor aliquam pulvinar consectetur. Quisque sed tristique quam. Sed accumsan aliquam nulla, sit amet pellentesque massa iaculis non.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 10 Aug 2014 16:56:29 -0500</pubDate>
+        <link>http://yourdomain.com/test-post.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/test-post.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
     
       <item>
         <title>The Haunted Mask</title>
@@ -22,8 +45,8 @@
 &lt;p&gt;Proin suscipit vehicula dolor, et facilisis quam euismod ac. Fusce condimentum lectus sit amet lectus sodales faucibus. Phasellus et commodo diam. Vivamus id tincidunt lectus. Aenean id dapibus ligula, id dapibus neque. Curabitur ullamcorper dolor aliquam pulvinar consectetur. Quisque sed tristique quam. Sed accumsan aliquam nulla, sit amet pellentesque massa iaculis non.&lt;/p&gt;
 </description>
         <pubDate>Mon, 04 Aug 2014 16:56:29 -0500</pubDate>
-        <link>http://yourdomain.com/the-haunted-mask%202.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/the-haunted-mask%202.html</guid>
+        <link>http://yourdomain.com/the-haunted-mask%203.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/the-haunted-mask%203.html</guid>
         
         
         <category>jekyll</category>

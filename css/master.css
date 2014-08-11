@@ -87,10 +87,6 @@ a {
 time {
   color: #A2A2A2; }
 
-.page-container {
-  min-height: 100%;
-  position: relative; }
-
 /**---MODULE DIRECTORY---**/
 /*Page Navigation*/
 .nav-logo {
@@ -166,9 +162,7 @@ footer {
   background-color: #3a3a3a;
   /* Test Color Until Content */
   color: white;
-  font-size: 24px;
-  position: absolute;
-  bottom: 0; }
+  font-size: 24px; }
   footer span {
     line-height: 100px; }
   footer a {
