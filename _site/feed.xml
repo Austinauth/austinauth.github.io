@@ -5,15 +5,15 @@
     <description>Portfolio and Blog of IBM Designer Austin Auth</description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 10 Aug 2014 22:48:13 -0500</pubDate>
-    <lastBuildDate>Sun, 10 Aug 2014 22:48:13 -0500</lastBuildDate>
+    <pubDate>Mon, 11 Aug 2014 21:38:38 -0500</pubDate>
+    <lastBuildDate>Mon, 11 Aug 2014 21:38:38 -0500</lastBuildDate>
     <generator>Jekyll v2.1.1</generator>
     
       <item>
-        <title>Test Post</title>
+        <title>Under Construction</title>
         <description>&lt;div class=&quot;article-img&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;img/haunted-mask.jpg&quot; /&gt;&lt;/div&gt;
 
-&lt;h2 id=&quot;this-is-a-test-post-testing-github-pages&quot;&gt;This is a test post. Testing Github pages.&lt;/h2&gt;
+&lt;h2 id=&quot;my-site-is-currently-under-construction-please-excuse-the-mess-for-now&quot;&gt;My site is currently under construction. Please excuse the mess for now.&lt;/h2&gt;
 
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean suscipit lorem ac pharetra elementum. Phasellus quam felis, placerat quis leo non, cursus gravida diam. Sed dignissim, mauris nec porta ornare, mauris magna cursus velit, vel aliquam est augue ac odio. Integer commodo, diam tempor porttitor aliquet, lectus tellus auctor neque, eget aliquam magna leo nec nisi. Donec lacinia et sem in commodo.&lt;/p&gt;
 
@@ -33,30 +33,7 @@
       </item>
     
       <item>
-        <title>The Haunted Mask</title>
-        <description>&lt;div class=&quot;article-img&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;img/haunted-mask.jpg&quot; /&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;nunc-porttitor-ante-non-dignissim-malesuada-est-velit-interdum-est-vel-sagittis-dui-quam-in-risus-aecenas-iaculis-sodales-nisl-congue-sollicitudin-mi-pharetra-non&quot;&gt;Nunc porttitor, ante non dignissim malesuada, est velit interdum est, vel sagittis dui quam in risus. aecenas iaculis sodales nisl, congue sollicitudin mi pharetra non.&lt;/h2&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean suscipit lorem ac pharetra elementum. Phasellus quam felis, placerat quis leo non, cursus gravida diam. Sed dignissim, mauris nec porta ornare, mauris magna cursus velit, vel aliquam est augue ac odio. Integer commodo, diam tempor porttitor aliquet, lectus tellus auctor neque, eget aliquam magna leo nec nisi. Donec lacinia et sem in commodo.&lt;/p&gt;
-
-&lt;p&gt;Aliquam blandit lacus a dolor ultrices faucibus. Praesent venenatis, lectus in tincidunt lobortis, purus justo ornare ipsum, nec fringilla enim risus non nunc. Nunc porttitor, ante non dignissim malesuada, est velit interdum est, vel sagittis dui quam in risus.&lt;/p&gt;
-
-&lt;p&gt;Proin suscipit vehicula dolor, et facilisis quam euismod ac. Fusce condimentum lectus sit amet lectus sodales faucibus. Phasellus et commodo diam. Vivamus id tincidunt lectus. Aenean id dapibus ligula, id dapibus neque. Curabitur ullamcorper dolor aliquam pulvinar consectetur. Quisque sed tristique quam. Sed accumsan aliquam nulla, sit amet pellentesque massa iaculis non.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 04 Aug 2014 16:56:29 -0500</pubDate>
-        <link>http://yourdomain.com/the-haunted-mask%203.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/the-haunted-mask%203.html</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
-      </item>
-    
-      <item>
-        <title>Finding Nemo</title>
+        <title>Test Post</title>
         <description>&lt;div class=&quot;article-img&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;img/jelly-jam.jpg&quot; /&gt;&lt;/div&gt;
 
 &lt;h2&gt;Integer dapibus rhoncus placerat. Praesent nibh risus, ultrices quis consectetur ac, sollicitudin ut dui. Duis tristique vel leo hendrerit semper.&lt;/h2&gt;
@@ -68,58 +45,6 @@
         <pubDate>Fri, 25 Jul 2014 16:56:29 -0500</pubDate>
         <link>http://yourdomain.com/finding-nemo.html</link>
         <guid isPermaLink="true">http://yourdomain.com/finding-nemo.html</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
-      </item>
-    
-      <item>
-        <title>Gone Home</title>
-        <description>&lt;div class=&quot;article-img&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;img/haunted-mask.jpg&quot; /&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;youll-find-this-post-in-your-posts-directory---edit-this-post-and-re-build-or-run-with-the--w-switch-to-see-your-changes&quot;&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes!&lt;/h2&gt;
-&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 14 Jun 2014 16:56:29 -0500</pubDate>
-        <link>http://yourdomain.com/gone-home.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/gone-home.html</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
-      </item>
-    
-      <item>
-        <title>The Haunted Mask</title>
-        <description>&lt;div class=&quot;article-img&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;img/haunted-mask.jpg&quot; /&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;nunc-porttitor-ante-non-dignissim-malesuada-est-velit-interdum-est-vel-sagittis-dui-quam-in-risus-aecenas-iaculis-sodales-nisl-congue-sollicitudin-mi-pharetra-non&quot;&gt;Nunc porttitor, ante non dignissim malesuada, est velit interdum est, vel sagittis dui quam in risus. aecenas iaculis sodales nisl, congue sollicitudin mi pharetra non.&lt;/h2&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean suscipit lorem ac pharetra elementum. Phasellus quam felis, placerat quis leo non, cursus gravida diam. Sed dignissim, mauris nec porta ornare, mauris magna cursus velit, vel aliquam est augue ac odio. Integer commodo, diam tempor porttitor aliquet, lectus tellus auctor neque, eget aliquam magna leo nec nisi. Donec lacinia et sem in commodo.&lt;/p&gt;
-
-&lt;p&gt;Aliquam blandit lacus a dolor ultrices faucibus. Praesent venenatis, lectus in tincidunt lobortis, purus justo ornare ipsum, nec fringilla enim risus non nunc. Nunc porttitor, ante non dignissim malesuada, est velit interdum est, vel sagittis dui quam in risus.&lt;/p&gt;
-
-&lt;p&gt;Proin suscipit vehicula dolor, et facilisis quam euismod ac. Fusce condimentum lectus sit amet lectus sodales faucibus. Phasellus et commodo diam. Vivamus id tincidunt lectus. Aenean id dapibus ligula, id dapibus neque. Curabitur ullamcorper dolor aliquam pulvinar consectetur. Quisque sed tristique quam. Sed accumsan aliquam nulla, sit amet pellentesque massa iaculis non.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 15 Apr 2014 16:56:29 -0500</pubDate>
-        <link>http://yourdomain.com/the-haunted-mask.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/the-haunted-mask.html</guid>
         
         
         <category>jekyll</category>

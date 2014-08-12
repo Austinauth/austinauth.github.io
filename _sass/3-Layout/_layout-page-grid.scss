@@ -1,9 +1,19 @@
-/*Page Layout*/
+/**--- Page Layout ---**/
 
-.page-wrapper, .footer-wrapper{
+.page-wrapper{
+	min-height:100%;
+	position:relative;
+}
+
+.page-content, .footer-wrapper{
 	width: 90%;
 	max-width: 770px;
 	margin: 0 auto;
+}
+
+.page-content{
+	padding:10px;
+	padding-bottom:80px;
 }
 
 .two-col{

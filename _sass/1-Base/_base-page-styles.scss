@@ -1,6 +1,9 @@
 /**--- Base Page Styles ---**/
 
-html{
+html,
+body {
+	margin:0;
+	padding:0;
 	height:100%;
 }
 
@@ -9,8 +12,6 @@ body{
 	font-family: "chaparral-pro", serif;
 	background-image: url('../../img/bg-texture.png');
 	background-repeat: repeat;
-	height: 100%;
-	padding-bottom: 100px;
 }
 
 h1{

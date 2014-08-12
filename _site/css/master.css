@@ -52,16 +52,17 @@ table {
   border-spacing: 0; }
 
 /**--- Base Page Styles ---**/
-html {
+html,
+body {
+  margin: 0;
+  padding: 0;
   height: 100%; }
 
 body {
   color: #3a3a3a;
   font-family: "chaparral-pro", serif;
   background-image: url("../../img/bg-texture.png");
-  background-repeat: repeat;
-  height: 100%;
-  padding-bottom: 100px; }
+  background-repeat: repeat; }
 
 h1 {
   font-size: 62px;
@@ -88,7 +89,10 @@ time {
   color: #A2A2A2; }
 
 /**---MODULE DIRECTORY---**/
-/*Page Navigation*/
+/**--- Page Navigation ---**/
+.site-header {
+  padding: 10px; }
+
 .nav-logo {
   height: 120px;
   width: 118px;
@@ -157,12 +161,14 @@ article .article-img {
 
 /**---Footer Module---**/
 footer {
+  background-color: #3a3a3a;
+  color: white;
+  font-size: 24px;
   width: 100%;
   height: 100px;
-  background-color: #3a3a3a;
-  /* Test Color Until Content */
-  color: white;
-  font-size: 24px; }
+  position: absolute;
+  bottom: 0;
+  left: 0; }
   footer span {
     line-height: 100px; }
   footer a {
@@ -202,11 +208,19 @@ span.twitter {
       border-bottom: none;
       margin-bottom: 0; }
 
-/*Page Layout*/
-.page-wrapper, .footer-wrapper {
+/**--- Page Layout ---**/
+.page-wrapper {
+  min-height: 100%;
+  position: relative; }
+
+.page-content, .footer-wrapper {
   width: 90%;
   max-width: 770px;
   margin: 0 auto; }
+
+.page-content {
+  padding: 10px;
+  padding-bottom: 80px; }
 
 .two-col {
   width: 45%;
