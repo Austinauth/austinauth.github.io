@@ -231,3 +231,25 @@ span.twitter {
   .two-col:nth-child(2) {
     float: right;
     text-align: right; }
+
+/**--- Media Queries ---**/
+@media (max-width: 770px) {
+  /* Header */
+  .site-header {
+    padding: 0;
+    width: 90%;
+    margin: 0 auto; }
+
+  .nav-logo {
+    display: block;
+    position: relative; }
+
+  .site-navigation ul {
+    padding-top: 70px;
+    padding-bottom: 0; }
+
+  .site-navigation ul li.nav-link-right {
+    padding-left: 0; }
+
+  .site-navigation ul li.nav-link-left {
+    padding-right: 0; } }
