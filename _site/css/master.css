@@ -218,8 +218,7 @@ span.twitter {
   margin: 0 auto; }
 
 .page-content {
-  padding: 10px;
-  padding-bottom: 80px; }
+  padding-bottom: 100px; }
 
 .two-col {
   width: 45%;
@@ -235,11 +234,13 @@ span.twitter {
     margin: 0 auto; }
 
   .nav-logo {
-    display: block;
-    position: relative; }
+    position: relative;
+    float: left;
+    height: 75px;
+    top: 0; }
 
   .site-navigation ul {
-    padding-top: 70px;
+    padding-top: 0;
     padding-bottom: 0; }
 
   .site-navigation ul li.nav-link-right {

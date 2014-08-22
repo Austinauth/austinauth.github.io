@@ -8,12 +8,14 @@
 	}
 
 	.nav-logo{
-		display: block;
 		position: relative;
+		float: left;
+		height: 75px;
+		top: 0;
 	}
 
 	.site-navigation ul{
-		padding-top: 70px;
+		padding-top: 0;
 		padding-bottom: 0;
 	}
 
