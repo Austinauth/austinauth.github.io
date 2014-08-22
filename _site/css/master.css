@@ -93,9 +93,6 @@ time {
 
 /**---MODULE DIRECTORY---**/
 /**--- Page Navigation ---**/
-.site-header {
-  padding: 10px; }
-
 .nav-logo {
   height: 120px;
   width: 118px;
@@ -233,11 +230,9 @@ span.twitter {
     text-align: right; }
 
 /**--- Media Queries ---**/
-@media (max-width: 770px) {
+@media (max-width: 790px) {
   /* Header */
   .site-header {
-    padding: 0;
-    width: 90%;
     margin: 0 auto; }
 
   .nav-logo {
