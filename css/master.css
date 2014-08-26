@@ -263,6 +263,7 @@ span.twitter {
   .site-navigation ul li.nav-link-left {
     padding-right: 0; } }
 @media (max-width: 728px) {
+  /* Header */
   .site-navigation ul {
     padding-top: 40px; }
     .site-navigation ul li a {
@@ -284,3 +285,8 @@ span.twitter {
     font-size: 1.2rem; }
     .site-navigation ul li a {
       padding-left: 30px; } }
+@media (max-width: 445px) {
+  .site-navigation ul {
+    font-size: 1.1rem; }
+    .site-navigation ul li a {
+      padding-left: 20px; } }

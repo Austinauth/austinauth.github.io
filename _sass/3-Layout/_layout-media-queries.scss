@@ -39,6 +39,8 @@
 }
 
 @media (max-width: 728px) {
+	/* Header */
+
 	.site-navigation ul{ 
 		padding-top: 40px;
 		li a{
@@ -75,6 +77,15 @@
 		font-size: 1.2rem;
 		li a{
 		padding-left: 30px;
+		}
+	}
+}
+
+@media (max-width: 445px){
+	.site-navigation ul{ 
+		font-size: 1.1rem;
+		li a{
+		padding-left: 20px;
 		}
 	}
 }
