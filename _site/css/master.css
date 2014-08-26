@@ -212,20 +212,20 @@ span.twitter {
   min-height: 100%;
   position: relative; }
 
-.page-content, .footer-wrapper {
+.l-col-one {
   width: 90%;
   max-width: 770px;
   margin: 0 auto; }
 
-.page-content {
-  padding-bottom: 100px; }
-
-.two-col {
+.l-col-two {
   width: 45%;
   float: left; }
-  .two-col:nth-child(2) {
+  .l-col-two:nth-child(2) {
     float: right;
     text-align: right; }
+
+.footer-fix {
+  padding-bottom: 100px; }
 
 /**--- Media Queries ---**/
 @media (max-width: 790px) {
