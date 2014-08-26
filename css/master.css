@@ -244,6 +244,7 @@ span.twitter {
   .site-navigation {
     padding: 0; }
     .site-navigation ul {
+      font-size: 1.4rem;
       padding-top: 50px;
       float: right; }
       .site-navigation ul li a {
@@ -263,13 +264,23 @@ span.twitter {
     padding-right: 0; } }
 @media (max-width: 728px) {
   .site-navigation ul {
-    font-size: 1.4rem; }
+    padding-top: 40px; }
     .site-navigation ul li a {
       padding-left: 60px; }
       .site-navigation ul li a.last-child {
         padding-right: 0; } }
-@media (max-width: 625px) {
+@media (max-width: 643px) {
   .site-navigation ul li a {
     padding-left: 40px; }
     .site-navigation ul li a.last-child {
       padding-right: 0; } }
+@media (max-width: 538px) {
+  .site-navigation ul {
+    font-size: 1.3rem; }
+    .site-navigation ul li a {
+      padding-left: 30px; } }
+@media (max-width: 538px) {
+  .site-navigation ul {
+    font-size: 1.2rem; }
+    .site-navigation ul li a {
+      padding-left: 30px; } }
