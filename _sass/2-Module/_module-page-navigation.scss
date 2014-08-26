@@ -1,12 +1,22 @@
 /**--- Page Navigation ---**/
+.site-header{
+	width: 100%;
+	height: 100px;
+	margin-bottom: 100px;
+}
 
 .nav-logo{
-	height: 120px;
+	width: 13%;
+	max-height: 120px;
 	position: absolute;
 	left: 0;
 	right: 0;
 	margin: 0 auto;
 	top: 25px;
+}
+
+.site-navigation{
+	padding: 70px 0;
 }
 
 .site-navigation ul{
@@ -15,7 +25,6 @@
 	font-size: 1.5rem; //24px
 	font-style: normal;
 	font-weight: 700;
-	padding: 70px 0;
 		li{
 			display: inline-block;
 			a{

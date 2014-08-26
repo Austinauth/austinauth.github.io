@@ -93,21 +93,29 @@ time {
 
 /**---MODULE DIRECTORY---**/
 /**--- Page Navigation ---**/
+.site-header {
+  width: 100%;
+  height: 100px;
+  margin-bottom: 100px; }
+
 .nav-logo {
-  height: 120px;
+  width: 13%;
+  max-height: 120px;
   position: absolute;
   left: 0;
   right: 0;
   margin: 0 auto;
   top: 25px; }
 
+.site-navigation {
+  padding: 70px 0; }
+
 .site-navigation ul {
   list-style: none;
   text-align: center;
   font-size: 1.5rem;
   font-style: normal;
-  font-weight: 700;
-  padding: 70px 0; }
+  font-weight: 700; }
   .site-navigation ul li {
     display: inline-block; }
     .site-navigation ul li a {
@@ -231,20 +239,37 @@ span.twitter {
 @media (max-width: 790px) {
   /* Header */
   .site-header {
-    margin: 0 auto; }
+    margin-bottom: 0; }
+
+  .site-navigation {
+    padding: 0; }
+    .site-navigation ul {
+      padding-top: 50px;
+      float: right; }
+      .site-navigation ul li a {
+        padding: 0px;
+        padding-left: 75px; }
+        .site-navigation ul li a.last-child {
+          padding-right: 0; }
 
   .nav-logo {
     position: relative;
-    float: left;
-    height: 75px;
-    top: 0; }
-
-  .site-navigation ul {
-    padding-top: 0;
-    padding-bottom: 0; }
+    float: left; }
 
   .site-navigation ul li.nav-link-right {
     padding-left: 0; }
 
   .site-navigation ul li.nav-link-left {
     padding-right: 0; } }
+@media (max-width: 728px) {
+  .site-navigation ul {
+    font-size: 1.4rem; }
+    .site-navigation ul li a {
+      padding-left: 60px; }
+      .site-navigation ul li a.last-child {
+        padding-right: 0; } }
+@media (max-width: 625px) {
+  .site-navigation ul li a {
+    padding-left: 40px; }
+    .site-navigation ul li a.last-child {
+      padding-right: 0; } }
