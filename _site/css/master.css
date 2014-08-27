@@ -262,7 +262,7 @@ span.twitter {
 
   .site-navigation ul li.nav-link-left {
     padding-right: 0; } }
-@media (max-width: 728px) {
+@media (max-width: 728px) and (min-width: 643px) {
   /* Header */
   .site-navigation ul {
     padding-top: 40px; }
@@ -270,23 +270,32 @@ span.twitter {
       padding-left: 60px; }
       .site-navigation ul li a.last-child {
         padding-right: 0; } }
-@media (max-width: 643px) {
-  .site-navigation ul li a {
-    padding-left: 40px; }
-    .site-navigation ul li a.last-child {
-      padding-right: 0; } }
-@media (max-width: 538px) {
+@media (max-width: 643px) and (min-width: 538px) {
+  /* Header */
   .site-navigation ul {
-    font-size: 1.3rem; }
+    padding-top: 40px; }
     .site-navigation ul li a {
-      padding-left: 30px; } }
-@media (max-width: 538px) {
+      padding-left: 40px; }
+      .site-navigation ul li a.last-child {
+        padding-right: 0; } }
+@media (max-width: 538px) and (min-width: 445px) {
+  /* Header */
   .site-navigation ul {
+    padding-top: 40px;
     font-size: 1.2rem; }
     .site-navigation ul li a {
       padding-left: 30px; } }
-@media (max-width: 445px) {
+@media (max-width: 445px) and (min-width: 360px) {
+  /* Header */
   .site-navigation ul {
+    padding-top: 40px;
     font-size: 1.1rem; }
     .site-navigation ul li a {
       padding-left: 20px; } }
+@media (max-width: 360px) {
+  /* Header */
+  .site-navigation ul {
+    padding-top: 36px;
+    font-size: 1.1rem; }
+    .site-navigation ul li a {
+      padding-left: 13px; } }
