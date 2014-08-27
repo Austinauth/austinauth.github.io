@@ -65,7 +65,8 @@ body {
   color: #3a3a3a;
   font-family: "chaparral-pro", serif;
   background-image: url("../../img/bg-texture.png");
-  background-repeat: repeat; }
+  background-repeat: repeat;
+  min-width: 320px; }
 
 h1 {
   font-size: 3.875rem;
@@ -286,16 +287,44 @@ span.twitter {
     .site-navigation ul li a {
       padding-left: 30px; } }
 @media (max-width: 445px) and (min-width: 360px) {
+  /*Base*/
+  h1 {
+    font-size: 3rem; }
+
   /* Header */
   .site-navigation ul {
     padding-top: 40px;
     font-size: 1.1rem; }
     .site-navigation ul li a {
-      padding-left: 20px; } }
+      padding-left: 20px; }
+
+  /*Article*/
+  article header {
+    margin-bottom: 20px; }
+
+  article h1 {
+    margin-bottom: 14px; }
+
+  .article-date {
+    font-size: 1.3rem; } }
 @media (max-width: 360px) {
+  /*Base*/
+  h1 {
+    font-size: 3rem; }
+
   /* Header */
   .site-navigation ul {
     padding-top: 36px;
     font-size: 1.1rem; }
     .site-navigation ul li a {
-      padding-left: 13px; } }
+      padding-left: 13px; }
+
+  /*Article*/
+  article header {
+    margin-bottom: 20px; }
+
+  article h1 {
+    margin-bottom: 14px; }
+
+  .article-date {
+    font-size: 1.3rem; } }
