@@ -111,6 +111,7 @@
 		font-size: 3rem;
 	}
 
+
 	/* Header */
 	.site-navigation ul{ 
 		padding-top: 36px;
@@ -121,11 +122,23 @@
 	}
 
 	/*Article*/
-	article header{
+	
+	article{ 
+		header{
+		margin-top: 10px;
 		margin-bottom: 20px;
-	}
-	article h1{
+		}
+		h1{
 		margin-bottom: 14px
+		}
+		h2{
+		font-size: 1.5rem;
+		line-height: 1.75em;
+		margin-bottom: 24px;
+		}
+		.article-img{
+			margin-bottom: 26px;
+		}
 	}
 	.article-date{
 		font-size: 1.3rem;
