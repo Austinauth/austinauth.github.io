@@ -76,6 +76,9 @@
 		padding-left: 30px;
 		}
 	}
+
+	/* Footer */
+	
 }
 
 @media (max-width: 445px) and (min-width: 360px){
@@ -103,6 +106,22 @@
 	.article-date{
 		font-size: 1.3rem;
 	}
+
+	/* Footer */
+	footer{
+		font-size: 1.1rem;
+		li:first-child{
+			padding-top: 4px;
+		}
+		img.footer-icon{
+			width: 20px;
+		}
+	}
+
+	.footer-fix {
+		padding-bottom: 75px;
+	}
+	
 }
 
 @media (max-width: 360px){
@@ -144,5 +163,18 @@
 		font-size: 1.3rem;
 	}
 
+	/* Footer */
+	footer{
+		font-size: 1.1rem;
+		li:first-child{
+			padding-top: 4px;
+		}
+		img.footer-icon{
+			width: 20px;
+		}
+	}
 
+	.footer-fix {
+		padding-bottom: 75px;
+	}	
 }
