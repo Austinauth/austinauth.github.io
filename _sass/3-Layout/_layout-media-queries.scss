@@ -76,16 +76,10 @@
 		padding-left: 30px;
 		}
 	}
-
-	/* Footer */
 	
 }
 
 @media (max-width: 445px) and (min-width: 360px){
-	/*Base*/
-	h1{
-		font-size: 3rem;
-	}
 
 	/* Header */
 	.site-navigation ul{ 
@@ -97,11 +91,18 @@
 	}
 
 	/*Article*/
-	article header{
+	article{
+		header{
 		margin-bottom: 20px;
-	}
-	article h1{
+		}
+		h1{
+		font-size: 3rem;
 		margin-bottom: 14px
+		}
+		h2{
+		font-size: 1.6rem;
+		line-height: 2.25rem;
+		}
 	}
 	.article-date{
 		font-size: 1.3rem;
@@ -125,11 +126,6 @@
 }
 
 @media (max-width: 360px){
-	/*Base*/
-	h1{
-		font-size: 3rem;
-	}
-
 
 	/* Header */
 	.site-navigation ul{ 
@@ -148,11 +144,12 @@
 		margin-bottom: 20px;
 		}
 		h1{
+		font-size: 3rem;
 		margin-bottom: 14px
 		}
 		h2{
 		font-size: 1.5rem;
-		line-height: 1.75em;
+		line-height: 1.35rem;
 		margin-bottom: 24px;
 		}
 		.article-img{

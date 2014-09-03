@@ -287,14 +287,8 @@ footer {
     padding-top: 40px;
     font-size: 1.2rem; }
     .site-navigation ul li a {
-      padding-left: 30px; }
-
-  /* Footer */ }
+      padding-left: 30px; } }
 @media (max-width: 445px) and (min-width: 360px) {
-  /*Base*/
-  h1 {
-    font-size: 3rem; }
-
   /* Header */
   .site-navigation ul {
     padding-top: 40px;
@@ -305,9 +299,12 @@ footer {
   /*Article*/
   article header {
     margin-bottom: 20px; }
-
   article h1 {
+    font-size: 3rem;
     margin-bottom: 14px; }
+  article h2 {
+    font-size: 1.6rem;
+    line-height: 2.25rem; }
 
   .article-date {
     font-size: 1.3rem; }
@@ -323,10 +320,6 @@ footer {
   .footer-fix {
     padding-bottom: 75px; } }
 @media (max-width: 360px) {
-  /*Base*/
-  h1 {
-    font-size: 3rem; }
-
   /* Header */
   .site-navigation ul {
     padding-top: 36px;
@@ -339,10 +332,11 @@ footer {
     margin-top: 10px;
     margin-bottom: 20px; }
   article h1 {
+    font-size: 3rem;
     margin-bottom: 14px; }
   article h2 {
     font-size: 1.5rem;
-    line-height: 1.75em;
+    line-height: 1.35rem;
     margin-bottom: 24px; }
   article .article-img {
     margin-bottom: 26px; }
