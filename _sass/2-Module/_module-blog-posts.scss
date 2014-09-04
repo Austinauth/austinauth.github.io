@@ -10,7 +10,7 @@ article{
 	header{
 		text-align: center;
 		margin-top: 55px;
-		margin-bottom: 35px;
+		margin-bottom: 15px;
 	}
 	h1{
 		margin-bottom: 30px;
@@ -29,6 +29,9 @@ article{
 	}
 	img{
 		width: 100%;
+		-webkit-border-radius: 4px;
+		-moz-border-radius: 4px;
+		border-radius: 4px;
 	}
 }
 
