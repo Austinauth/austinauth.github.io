@@ -157,8 +157,8 @@ article {
 
 .article-date {
   font-size: 1.5rem;
-  font-style: italic;
-  font-weight: bold; }
+  font-style: normal;
+  font-weight: 600; }
 
 article .article-img {
   margin-bottom: 35px; }
@@ -283,14 +283,26 @@ footer {
     .site-navigation ul li a {
       padding-left: 40px; }
       .site-navigation ul li a.last-child {
-        padding-right: 0; } }
+        padding-right: 0; }
+
+  /* Article */
+  article h1 {
+    font-size: 3.25rem;
+    margin-bottom: 14px;
+    letter-spacing: 0.07rem; } }
 @media (max-width: 538px) and (min-width: 445px) {
   /* Header */
   .site-navigation ul {
     padding-top: 40px;
     font-size: 1.2rem; }
     .site-navigation ul li a {
-      padding-left: 30px; } }
+      padding-left: 30px; }
+
+  /* Article */
+  article h1 {
+    font-size: 3.25rem;
+    margin-bottom: 14px;
+    letter-spacing: 0.07rem; } }
 @media (max-width: 445px) and (min-width: 360px) {
   /* Header */
   .site-navigation ul {

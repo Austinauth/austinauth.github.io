@@ -41,7 +41,6 @@
 @media (max-width: 728px) and (min-width: 643px){
 
 	/* Header */
-
 	.site-navigation ul{ 
 		padding-top: 40px;
 		li a{
@@ -64,6 +63,14 @@
 				}
 		}
 	}
+	/* Article */
+	article{
+		h1{
+		font-size: 3.25rem;
+		margin-bottom: 14px;
+		letter-spacing: 0.07rem;
+		}
+	}	
 }
 
 @media (max-width: 538px) and (min-width: 445px) {
@@ -76,7 +83,15 @@
 		padding-left: 30px;
 		}
 	}
-	
+
+	/* Article */
+	article{
+		h1{
+		font-size: 3.25rem;
+		margin-bottom: 14px;
+		letter-spacing: 0.07rem;
+		}
+	}	
 }
 
 @media (max-width: 445px) and (min-width: 360px){
