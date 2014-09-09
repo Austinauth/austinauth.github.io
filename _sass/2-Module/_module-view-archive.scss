@@ -2,11 +2,11 @@
 
 .view-archived-posts{
 	text-align: right;
-	margin-bottom: 35px;
+	margin-bottom: 2.188rem;//35px
 	a{
-		font-size: 1.5rem; //24px
+		font-size: $base-font;
 		&:hover{
-			border-bottom: 2px solid rgba(233, 168, 1, 0.68);
+			border-bottom: 2px solid $orange;
 			padding-bottom: 3px;
 		}
 	}

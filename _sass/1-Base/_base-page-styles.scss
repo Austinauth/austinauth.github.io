@@ -13,37 +13,49 @@ html{
 
 body{
 	color: #3a3a3a;
-	font-family: "chaparral-pro", serif;
-	// background-image: url('../../img/bg-texture.png');
-	// background-repeat: repeat;
 	min-width: 320px;
 	background-color: white;
+	// background-image: url('../../img/bg-texture.png');
+	// background-repeat: repeat;
+
+	font-family: "chaparral-pro", serif;
+	font-size: 1.25rem;//20px
+	line-height: 1.65//26px
 }
 
+/* Typography */
+
 h1{
-	font-size: 5.125rem; //82px
-	line-height: 5.4rem;
-	font-style: normal;
+	font-size: 3.998rem;//63px
+	line-height: 4.32rem;//69px
 	font-weight: 700;
 	letter-spacing: 0.09rem;
 }
 
 h2{
-	font-size: 2rem; //32px
-	line-height: 2.625rem;//42px
-	font-style: normal;
+	font-size: 2.827rem;//45px
 	font-weight: 600;
 	letter-spacing: .03rem;
 }
 
+h3{
+	font-size: 1.999rem;//31px
+	line-height: 2.35rem;//37px
+	font-weight: 600;
+}
+
+h4{
+	font-size: 1.414rem;//22px
+}
+
 p{
-	font-size: 1.5rem; //24px
-	line-height: 2.3rem; 
+	font-size: $base-font; 
+	line-height: $base-line; 
 	letter-spacing: 0.017rem;
 }
 
 a{
-	color: #3a3a3a; 
+	color: $black; 
 	text-decoration: none;
 }
 
