@@ -108,38 +108,31 @@ time {
 /**--- Page Navigation ---**/
 .site-header {
   width: 100%;
-  height: 100px;
-  margin-bottom: 100px; }
+  display: block;
+  margin-bottom: 6.250rem; }
 
 .nav-logo {
   width: 13%;
-  max-height: 120px;
-  position: absolute;
-  left: 0;
-  right: 0;
-  margin: 0 auto;
-  top: 25px; }
+  max-height: 90px;
+  float: left; }
 
 .site-navigation {
-  padding: 70px 0; }
-
-.site-navigation ul {
-  list-style: none;
-  text-align: center;
-  font-size: 1.5rem;
-  font-style: normal;
-  font-weight: 700; }
-  .site-navigation ul li {
-    display: inline-block; }
-    .site-navigation ul li a {
-      text-decoration: none;
-      padding: 35px; }
-      .site-navigation ul li a:hover {
-        color: #f26b61; }
-    .site-navigation ul li.nav-link-left {
-      padding-right: 70px; }
-    .site-navigation ul li.nav-link-right {
-      padding-left: 70px; }
+  padding: 25px 0px 0px 0px; }
+  .site-navigation ul {
+    font-size: 1.5rem;
+    font-weight: 700;
+    list-style: none;
+    float: right; }
+    .site-navigation ul li {
+      padding-top: 25px;
+      display: inline-block; }
+      .site-navigation ul li a {
+        text-decoration: none;
+        padding: 0px 60px 0px 60px; }
+        .site-navigation ul li a:hover {
+          color: #f26b61; }
+        .site-navigation ul li a:last-child {
+          padding-right: 0px; }
 
 /**---Blog Post Module---**/
 article {
@@ -246,6 +239,9 @@ footer {
   .l-col-two:nth-child(2) {
     float: right;
     text-align: right; }
+
+.l-overflowHidden {
+  overflow: hidden; }
 
 .footer-fix {
   padding-bottom: 100px; }
