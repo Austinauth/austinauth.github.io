@@ -14,13 +14,15 @@ html{
 body{
 	color: #3a3a3a;
 	font-family: "chaparral-pro", serif;
-	background-image: url('../../img/bg-texture.png');
-	background-repeat: repeat;
+	// background-image: url('../../img/bg-texture.png');
+	// background-repeat: repeat;
 	min-width: 320px;
+	background-color: white;
 }
 
 h1{
-	font-size: 3.875rem; //62px
+	font-size: 5.125rem; //82px
+	line-height: 5.4rem;
 	font-style: normal;
 	font-weight: 700;
 	letter-spacing: 0.09rem;
@@ -43,9 +45,6 @@ p{
 a{
 	color: #3a3a3a; 
 	text-decoration: none;
-	&:hover{
-		color: green;
-	}
 }
 
 time{

@@ -30,6 +30,9 @@
 			a{
 				text-decoration: none;
 				padding: 35px;
+				&:hover{
+					color: $orange;
+				}
 			}
 			&.nav-link-left{
 				padding-right: 70px;
