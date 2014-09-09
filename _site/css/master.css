@@ -160,6 +160,11 @@ article {
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
     border-radius: 3px; }
+  article a {
+    color: #f26b61; }
+    article a:hover {
+      border-bottom: 2px solid #f26b61;
+      padding-bottom: 2px; }
 
 /**---Archived Posts Link Module---**/
 .view-archived-posts {
@@ -245,7 +250,3 @@ footer {
 
 .footer-fix {
   padding-bottom: 100px; }
-
-@media (min-width: 790px) {
-  body {
-    font-size: 20%; } }

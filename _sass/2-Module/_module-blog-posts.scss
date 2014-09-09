@@ -33,6 +33,13 @@ article{
 		-moz-border-radius: 3px;
 		border-radius: 3px;
 	}
+	a{
+		color: $orange;
+		&:hover{
+			border-bottom: 2px solid $orange;
+			padding-bottom: 2px;
+		}
+	}
 }
 
 

@@ -1,16 +1,16 @@
 ---
 layout: post
-title:  "Example Blog Post"
+title:  "Under Construction"
 date:   2014-08-10 21:56:29
 categories: jekyll update
 ---
 
 <div class="article-img"><img class="img-responsive" src="img/haunted-mask.jpg"></div>
 
-### My site is currently under construction. Please excuse the mess for now. 
+### My site is currently under construction. Please excuse the mess. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean suscipit lorem ac pharetra elementum. Phasellus quam felis, placerat quis leo non, cursus gravida diam. Sed dignissim, mauris nec porta ornare, mauris magna cursus velit, vel aliquam est augue ac odio. Integer commodo, diam tempor porttitor aliquet, lectus tellus auctor neque, eget aliquam magna leo nec nisi. Donec lacinia et sem in commodo.
+It's been a while since I last updated my website. I am currently working on a site redesign incorporating some blog functionality. The site will be complete within the next couple of weeks. 
 
-Aliquam blandit lacus a dolor ultrices faucibus. Praesent venenatis, lectus in tincidunt lobortis, purus justo ornare ipsum, nec fringilla enim risus non nunc. Nunc porttitor, ante non dignissim malesuada, est velit interdum est, vel sagittis dui quam in risus.
+In the meantime you can talk with me via <a href="https://twitter.com/AustinAuth">Twitter</a> or <a href="mailto:austin@austin-auth.com">Email</a>.
 
-Proin suscipit vehicula dolor, et facilisis quam euismod ac. Fusce condimentum lectus sit amet lectus sodales faucibus. Phasellus et commodo diam. Vivamus id tincidunt lectus. Aenean id dapibus ligula, id dapibus neque. Curabitur ullamcorper dolor aliquam pulvinar consectetur. Quisque sed tristique quam. Sed accumsan aliquam nulla, sit amet pellentesque massa iaculis non.
+
