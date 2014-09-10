@@ -139,7 +139,7 @@ article {
   margin-bottom: 5rem; }
   article.blog-post {
     padding-left: 2.188rem;
-    border-left: 3px solid #f26b61; }
+    border-left: 2px solid #f26b61; }
   article header {
     margin-top: 3.438rem; }
   article h1 {
@@ -250,3 +250,85 @@ footer {
 
 .footer-fix {
   padding-bottom: 100px; }
+
+@media (max-width: 45rem) {
+  /* Article */
+  article h1 {
+    font-size: 3.250rem;
+    line-height: 3.625rem; } }
+@media (max-width: 40.938rem) {
+  /* Navigation */
+  .site-navigation ul {
+    font-size: 1.3rem; }
+    .site-navigation ul li {
+      padding-top: 17px; }
+      .site-navigation ul li a {
+        padding: 0px 50px 0px 50px; } }
+@media (max-width: 37.5rem) {
+  /* Article */
+  article h1 {
+    font-size: 2.625rem;
+    line-height: 3rem;
+    margin-bottom: 1.250rem; }
+  article h3 {
+    font-size: 1.750rem;
+    line-height: 2.125rem; }
+  article .article-img {
+    margin-bottom: 1.250rem; } }
+@media (max-width: 34.75rem) {
+  /* Navigation */
+  .site-header {
+    margin-bottom: 4.688em; }
+
+  .site-navigation ul li a {
+    padding: 0px 35px 0px 35px; } }
+@media (max-width: 31.25rem) {
+  /* Navigation */
+  .site-navigation ul {
+    font-size: 1.125rem; }
+    .site-navigation ul li a {
+      padding: 0px 35px 0px 35px; }
+
+  /* Article */
+  article h1 {
+    font-size: 2.125rem;
+    line-height: 2.500rem; }
+  article h3 {
+    font-size: 1.500rem;
+    line-height: 1.875rem; }
+  article.blog-post {
+    padding-left: 1.563rem; }
+  article .article-date {
+    font-size: 1.125rem;
+    margin-bottom: 1.563rem; } }
+@media (max-width: 27.813em) {
+  /* Navigation */
+  .site-navigation ul {
+    font-size: 1rem; }
+    .site-navigation ul li {
+      padding-top: 12px; }
+      .site-navigation ul li a {
+        padding: 0px 25px 0px 25px; } }
+@media (max-width: 25.375rem) {
+  /* Navigation */
+  .site-header {
+    margin-bottom: 3.125rem; }
+
+  /* Article */
+  article.blog-post {
+    padding-left: 0px;
+    border-left: none; }
+  article .article-date {
+    font-size: 1rem;
+    margin-bottom: 1.250rem; } }
+@media (max-width: 23.75rem) {
+  /* Navigation */
+  .site-navigation ul li {
+    padding-top: 7px; }
+    .site-navigation ul li a {
+      padding: 0px 18px 0px 17px; }
+
+  /* Article */
+  article h1 {
+    font-size: 1.750rem;
+    line-height: 2.125rem; } }

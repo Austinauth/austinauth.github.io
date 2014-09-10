@@ -1,7 +1,177 @@
 // /**--- Media Queries ---**/
-@media (min-width: 790px){
+@media (max-width: 45rem){
+	
+	/* Article */
+
+	article{
+		h1{
+		font-size: 3.250rem;//52px
+		line-height: 3.625rem;//58px
+		}	
+	}
+}
+
+@media (max-width: 40.938rem){
+
+	/* Navigation */
+
+	.site-navigation{
+		ul{
+			font-size: 1.3rem; //20px
+			li{
+				padding-top: 17px;
+				a{
+					padding: 0px 50px 0px 50px;
+				}
+			}
+		}
+	}
 	
 }
+
+@media (max-width: 37.500rem){
+	
+	/* Article */
+	
+	article{
+		h1{
+			font-size: 2.625rem;//42px
+			line-height: 3rem;//48px
+			margin-bottom: 1.250rem;//20px
+		}
+		h3{
+			font-size: 1.750rem;//28px
+			line-height: 2.125rem;//34px
+		}
+		.article-img{
+		margin-bottom: 1.250rem;//20px
+		}
+	}
+}
+
+@media (max-width: 34.750rem){
+
+	/* Navigation */
+
+	.site-header{
+		margin-bottom: 4.688em;
+	}
+
+	.site-navigation{
+		ul{
+			li{
+				a{
+					padding: 0px 35px 0px 35px;
+				}
+			}
+		}
+	}
+
+}
+
+@media (max-width: 31.250rem){
+
+	/* Navigation */
+
+	.site-navigation{
+		ul{
+			font-size: 1.125rem; //18px
+			li{
+				a{
+					padding: 0px 35px 0px 35px;
+				}
+			}
+		}
+	}
+
+	/* Article */
+
+	article{
+		h1{
+			font-size: 2.125rem;//34px
+			line-height: 2.500rem;//40px
+		}
+		h3{
+			font-size: 1.500rem;//24px
+			line-height: 1.875rem;//30px
+		}
+		&.blog-post{
+			padding-left: 1.563rem;//25px
+		}
+		.article-date{
+			font-size: 1.125rem;
+			margin-bottom: 1.563rem;
+		}
+	}
+}
+
+@media (max-width: 27.813em){
+	
+	/* Navigation */
+
+	.site-navigation{
+		ul{
+			font-size: 1rem; //16px
+			li{
+				padding-top: 12px;
+				a{
+					padding: 0px 25px 0px 25px;
+				}
+			}
+		}
+	}
+}
+
+@media (max-width: 25.375rem){
+
+	/* Navigation */
+
+	.site-header{
+		margin-bottom: 3.125rem;
+	}
+
+	/* Article */
+
+	article{
+		&.blog-post{
+			padding-left: 0px;
+			border-left: none;
+		}
+		.article-date{
+			font-size: 1rem;
+			margin-bottom: 1.250rem;//20px;
+		}
+	}
+
+}
+
+@media (max-width: 23.750rem){
+
+	/* Navigation */
+
+	.site-navigation{
+		ul{
+			li{
+				padding-top: 7px;
+				a{
+					padding: 0px 18px 0px 17px;
+				}
+			}
+		}
+	}
+
+	/* Article */
+
+	article{
+		h1{
+			font-size: 1.750rem;//28px
+			line-height: 2.125rem;//34px
+		}
+	}
+
+}
+
+
 
 
 // @media (max-width: 846px) {
