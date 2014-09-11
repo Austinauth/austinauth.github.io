@@ -208,27 +208,24 @@ footer {
     font-size: 3.875rem; }
 
 /**--- Post Archive ---**/
-.post-archive {
-  padding-top: 70px;
-  padding-bottom: 70px; }
-  .post-archive .post-archive-unit {
-    border-bottom: 1px solid #D0D2D4;
-    margin-bottom: 35px;
-    padding-bottom: 35px; }
-    .post-archive .post-archive-unit .post-archive-date {
-      font-size: 1.3rem;
-      line-height: 2.125rem; }
-    .post-archive .post-archive-unit .post-archive-link {
-      display: block;
-      font-size: 2rem;
-      line-height: 2.625rem; }
-    .post-archive .post-archive-unit a {
-      font-weight: 600; }
-      .post-archive .post-archive-unit a:hover {
-        color: #f26b61; }
-    .post-archive .post-archive-unit:last-of-type {
-      border-bottom: none;
-      margin-bottom: 0; }
+.post-archive .post-archive-unit {
+  border-bottom: 1px solid #D0D2D4;
+  margin-bottom: 35px;
+  padding-bottom: 35px; }
+  .post-archive .post-archive-unit .post-archive-date {
+    font-size: 1.3rem;
+    line-height: 2.125rem; }
+  .post-archive .post-archive-unit .post-archive-link {
+    display: block;
+    font-size: 2rem;
+    line-height: 2.625rem; }
+  .post-archive .post-archive-unit a {
+    font-weight: 600; }
+    .post-archive .post-archive-unit a:hover {
+      color: #f26b61; }
+  .post-archive .post-archive-unit:last-of-type {
+    border-bottom: none;
+    margin-bottom: 0; }
 
 /**--- Page Layout ---**/
 .page-wrapper {
