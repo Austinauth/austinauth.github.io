@@ -42,6 +42,10 @@
 		h3{
 			font-size: 1.750rem;//28px
 			line-height: 2.125rem;//34px
+			margin-bottom: 1.250rem;//20px
+		}
+		p{
+			margin-bottom: 1.250rem;//20px
 		}
 		.article-img{
 		margin-bottom: 1.250rem;//20px
@@ -102,6 +106,16 @@
 			font-size: 1.125rem;
 			margin-bottom: 1.563rem;
 		}
+	}
+
+	/* Footer */
+
+	.copyright{
+		font-size: 1.250rem;//20px
+	}
+
+	.footer-icon{
+		width: 30px!important;
 	}
 }
 
@@ -167,6 +181,22 @@
 			font-size: 1.750rem;//28px
 			line-height: 2.125rem;//34px
 		}
+	}
+
+	/* Footer */
+
+	footer{
+		.twitter{
+			padding-top: 8px;
+		}
+	}
+
+	.copyright{
+		font-size: 1rem;//16px
+	}
+
+	.footer-icon{
+		width: 22px!important;
 	}
 
 }
